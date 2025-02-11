@@ -1,8 +1,6 @@
 package s1_100
 
-import (
-	"log"
-)
+import "log"
 
 func isSameTree(p *TreeNode, q *TreeNode) bool {
 	switch {

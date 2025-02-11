@@ -12,6 +12,8 @@ go test -v ./...
 
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
+[101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
+
 <!-- 
 [2](https://leetcode.com/problems/add-two-numbers) Add Two Numbers
 
@@ -104,8 +106,6 @@ go test -v ./...
 [96](https://leetcode.com/problems/unique-binary-search-trees) Unique Binary Search Trees
 
 [98](https://leetcode.com/problems/validate-binary-search-tree) Validate Binary Search Tree
-
-[101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 [102](https://leetcode.com/problems/binary-tree-level-order-traversal) Binary Tree Level Order Traversal
 
