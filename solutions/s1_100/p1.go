@@ -1,4 +1,4 @@
-package s0
+package s1_100
 
 import "log"
 
@@ -16,13 +16,13 @@ func twoSum(nums []int, target int) []int {
 	panic("unreachable")
 }
 
-type args_1 struct {
+type arg_1 struct {
 	nums   []int
 	target int
 }
 
 func Run_1() {
-	input := []args_1{
+	input := []arg_1{
 		{[]int{2, 7, 11, 15}, 9},
 		{[]int{2, 7, 11, 15}, 26},
 		{[]int{2, 7, 11, 15}, 13},
