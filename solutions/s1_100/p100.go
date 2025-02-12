@@ -1,6 +1,6 @@
 package s1_100
 
-import "log"
+import "fmt"
 
 func isSameTree(p *TreeNode, q *TreeNode) bool {
 	switch {
@@ -33,6 +33,6 @@ func Run_100() {
 	}
 
 	for _, arg := range input {
-		log.Println(isSameTree(arg.p, arg.q))
+		fmt.Println(isSameTree(arg.p, arg.q))
 	}
 }

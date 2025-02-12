@@ -1,6 +1,6 @@
 package s1_100
 
-import "log"
+import "fmt"
 
 func twoSum(nums []int, target int) []int {
 	m := make(map[int]int)
@@ -29,6 +29,6 @@ func Run_1() {
 	}
 
 	for _, arg := range input {
-		log.Println(twoSum(arg.nums, arg.target))
+		fmt.Println(twoSum(arg.nums, arg.target))
 	}
 }

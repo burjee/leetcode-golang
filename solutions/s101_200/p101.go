@@ -1,6 +1,6 @@
 package s101_200
 
-import "log"
+import "fmt"
 
 func isSymmetric(root *TreeNode) bool {
 	return helper(root.Left, root.Right)
@@ -34,6 +34,6 @@ func Run_101() {
 	}
 
 	for _, arg := range input {
-		log.Println(isSymmetric(arg.root))
+		fmt.Println(isSymmetric(arg.root))
 	}
 }

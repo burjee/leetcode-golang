@@ -1,14 +1,14 @@
 package main
 
 import (
+	"fmt"
 	"leetcode/solutions"
-	"log"
 	"os"
 )
 
 func main() {
 	if len(os.Args) < 2 {
-		log.Println("go run . <problem_number>")
+		fmt.Println("go run . <problem_number>")
 		return
 	}
 
