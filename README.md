@@ -12,13 +12,14 @@ go test -v ./...
 
 [2](https://leetcode.com/problems/add-two-numbers) Add Two Numbers
 
+[3](https://leetcode.com/problems/longest-substring-without-repeating-characters) Longest Substring Without Repeating Characters
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
 
-[3](https://leetcode.com/problems/longest-substring-without-repeating-characters) Longest Substring Without Repeating Characters
 
 [5](https://leetcode.com/problems/longest-palindromic-substring) Longest Palindromic Substring
 
