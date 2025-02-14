@@ -18,16 +18,13 @@ go test -v ./...
 
 [6](https://leetcode.com/problems/zigzag-conversion) Zigzag Conversion
 
+[9](https://leetcode.com/problems/palindrome-number) Palindrome Number
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-
-
-
-[9](https://leetcode.com/problems/palindrome-number) Palindrome Number
 
 [11](https://leetcode.com/problems/container-with-most-water) Container With Most Water
 
