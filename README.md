@@ -16,6 +16,8 @@ go test -v ./...
 
 [5](https://leetcode.com/problems/longest-palindromic-substring) Longest Palindromic Substring
 
+[6](https://leetcode.com/problems/zigzag-conversion) Zigzag Conversion
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
@@ -24,7 +26,6 @@ go test -v ./...
 
 
 
-[6](https://leetcode.com/problems/zigzag-conversion) Zigzag Conversion
 
 [9](https://leetcode.com/problems/palindrome-number) Palindrome Number
 
