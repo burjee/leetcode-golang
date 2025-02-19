@@ -42,14 +42,13 @@ go test -v ./...
 
 [24](https://leetcode.com/problems/swap-nodes-in-pairs) Swap Nodes in Pairs
 
+[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array) Remove Duplicates from Sorted Array
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-
-[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array) Remove Duplicates from Sorted Array
 
 [27](https://leetcode.com/problems/remove-element) Remove Element
 

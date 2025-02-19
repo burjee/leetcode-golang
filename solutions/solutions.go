@@ -42,6 +42,8 @@ func Run(n string) {
 		s1_100.Run_23()
 	case "24":
 		s1_100.Run_24()
+	case "26":
+		s1_100.Run_26()
 	case "100":
 		s1_100.Run_100()
 	case "101":
