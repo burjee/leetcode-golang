@@ -38,13 +38,13 @@ go test -v ./...
 
 [21](https://leetcode.com/problems/merge-two-sorted-lists) Merge Two Sorted Lists
 
+[23](https://leetcode.com/problems/merge-k-sorted-lists) Merge k Sorted Lists
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[23](https://leetcode.com/problems/merge-k-sorted-lists) Merge k Sorted Lists
 
 [24](https://leetcode.com/problems/swap-nodes-in-pairs) Swap Nodes in Pairs
 

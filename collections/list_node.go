@@ -29,14 +29,13 @@ func NewListNode(nums []int) *ListNode {
 		return nil
 	}
 
-	head := &ListNode{Val: nums[0]}
-	ptr := head
-	nums = nums[1:]
+	hair := &ListNode{Val: -1}
+	ptr := hair
 	for _, num := range nums {
 		node := &ListNode{Val: num}
 		ptr.Next = node
 		ptr = ptr.Next
 	}
 
-	return head
+	return hair.Next
 }
