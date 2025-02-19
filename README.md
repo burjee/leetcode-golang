@@ -34,13 +34,13 @@ go test -v ./...
 
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list) Remove Nth Node From End of List
 
+[20](https://leetcode.com/problems/valid-parentheses) Valid Parentheses
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[20](https://leetcode.com/problems/valid-parentheses) Valid Parentheses
 
 [21](https://leetcode.com/problems/merge-two-sorted-lists) Merge Two Sorted Lists
 
