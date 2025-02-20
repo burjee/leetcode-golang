@@ -44,13 +44,13 @@ go test -v ./...
 
 [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array) Remove Duplicates from Sorted Array
 
+[27](https://leetcode.com/problems/remove-element) Remove Element
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[27](https://leetcode.com/problems/remove-element) Remove Element
 
 [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) Find the Index of the First Occurrence in a String
 
