@@ -9,17 +9,17 @@ func longestPalindrome(s string) string {
 
 	for i := range chars {
 		if i < length-1 && chars[i] == chars[i+1] {
-			helper(i, i+1, length, chars, &ans)
+			helper_5(i, i+1, length, chars, &ans)
 		}
 		if i < length-2 && chars[i] == chars[i+2] {
-			helper(i, i+2, length, chars, &ans)
+			helper_5(i, i+2, length, chars, &ans)
 		}
 	}
 
 	return string(ans)
 }
 
-func helper(l, r, length int, chars []rune, ans *[]rune) {
+func helper_5(l, r, length int, chars []rune, ans *[]rune) {
 	for l > 0 && r < length-1 {
 		if chars[l-1] != chars[r+1] {
 			break
