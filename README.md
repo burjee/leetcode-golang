@@ -50,13 +50,13 @@ go test -v ./...
 
 [33](https://leetcode.com/problems/search-in-rotated-sorted-array) Search in Rotated Sorted Array
 
+[39](https://leetcode.com/problems/combination-sum) Combination Sum
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[39](https://leetcode.com/problems/combination-sum) Combination Sum
 
 [42](https://leetcode.com/problems/trapping-rain-water) Trapping Rain Water
 
