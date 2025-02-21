@@ -46,13 +46,13 @@ go test -v ./...
 
 [27](https://leetcode.com/problems/remove-element) Remove Element
 
+[28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) Find the Index of the First Occurrence in a String
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) Find the Index of the First Occurrence in a String
 
 [33](https://leetcode.com/problems/search-in-rotated-sorted-array) Search in Rotated Sorted Array
 
