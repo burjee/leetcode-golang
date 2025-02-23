@@ -64,13 +64,13 @@ go test -v ./...
 
 [54](https://leetcode.com/problems/spiral-matrix) Spiral Matrix
 
+[55](https://leetcode.com/problems/jump-game) Jump Game
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[55](https://leetcode.com/problems/jump-game) Jump Game
 
 [56](https://leetcode.com/problems/merge-intervals) Merge Intervals
 
