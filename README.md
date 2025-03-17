@@ -68,13 +68,13 @@ go test -v ./...
 
 [56](https://leetcode.com/problems/merge-intervals) Merge Intervals
 
+[57](https://leetcode.com/problems/insert-interval) Insert Interval
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[57](https://leetcode.com/problems/insert-interval) Insert Interval
 
 [58](https://leetcode.com/problems/length-of-last-word) Length of Last Word
 
