@@ -66,13 +66,13 @@ go test -v ./...
 
 [55](https://leetcode.com/problems/jump-game) Jump Game
 
+[56](https://leetcode.com/problems/merge-intervals) Merge Intervals
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[56](https://leetcode.com/problems/merge-intervals) Merge Intervals
 
 [57](https://leetcode.com/problems/insert-interval) Insert Interval
 
