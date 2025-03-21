@@ -80,13 +80,13 @@ go test -v ./...
 
 [68](https://leetcode.com/problems/text-justification) Text Justification
 
+[70](https://leetcode.com/problems/climbing-stairs) Climbing Stairs
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[70](https://leetcode.com/problems/climbing-stairs) Climbing Stairs
 
 [72](https://leetcode.com/problems/edit-distance) Edit Distance
 
