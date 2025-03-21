@@ -78,13 +78,13 @@ go test -v ./...
 
 [67](https://leetcode.com/problems/add-binary) Add Binary
 
+[68](https://leetcode.com/problems/text-justification) Text Justification
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[68](https://leetcode.com/problems/text-justification) Text Justification
 
 [70](https://leetcode.com/problems/climbing-stairs) Climbing Stairs
 
