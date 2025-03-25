@@ -84,13 +84,13 @@ go test -v ./...
 
 [72](https://leetcode.com/problems/edit-distance) Edit Distance
 
+[73](https://leetcode.com/problems/set-matrix-zeroes) Set Matrix Zeroes
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[73](https://leetcode.com/problems/set-matrix-zeroes) Set Matrix Zeroes
 
 [76](https://leetcode.com/problems/minimum-window-substring) Minimum Window Substring
 
