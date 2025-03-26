@@ -9,3 +9,4 @@ var NewTreeNone = collections.NewTreeNone
 var NewListNode = collections.NewListNode
 
 var Ptr = collections.Ptr
+var ToZeroIndex = collections.ToZeroIndex

@@ -6,7 +6,7 @@ func minWindow(s string, t string) string {
 	total_count := make([]int, 52)
 	window_count := make([]int, 52)
 	for i := range t {
-		char_index := toZeroIndex(t[i])
+		char_index := ToZeroIndex(t[i])
 		total_count[char_index] += 1
 	}
 
@@ -14,7 +14,7 @@ func minWindow(s string, t string) string {
 	start := 0
 	window_found := 0
 	for end := range s {
-		end_index := toZeroIndex(s[end])
+		end_index := ToZeroIndex(s[end])
 
 		if total_count[end_index] > 0 {
 			window_count[end_index] += 1
@@ -22,13 +22,13 @@ func minWindow(s string, t string) string {
 				window_found += 1
 			}
 
-			start_index := toZeroIndex(s[start])
+			start_index := ToZeroIndex(s[start])
 			for total_count[start_index] == 0 || total_count[start_index] < window_count[start_index] {
 				if total_count[start_index] < window_count[start_index] {
 					window_count[start_index] -= 1
 				}
 				start += 1
-				start_index = toZeroIndex(s[start])
+				start_index = ToZeroIndex(s[start])
 			}
 
 			if window_found == len(t) {
@@ -40,14 +40,6 @@ func minWindow(s string, t string) string {
 	}
 
 	return ans
-}
-
-func toZeroIndex(char byte) byte {
-	if char < 97 {
-		return char - 65
-	} else {
-		return char - 97 + 26
-	}
 }
 
 type arg_76 struct {
