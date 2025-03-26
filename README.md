@@ -88,13 +88,13 @@ go test -v ./...
 
 [76](https://leetcode.com/problems/minimum-window-substring) Minimum Window Substring
 
+[79](https://leetcode.com/problems/word-search) Word Search
+
 [100](https://leetcode.com/problems/same-tree) Same Tree
 
 [101](https://leetcode.com/problems/symmetric-tree) Symmetric Tree
 
 <!-- 
-
-[79](https://leetcode.com/problems/word-search) Word Search
 
 [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) Remove Duplicates from Sorted Array II
 
