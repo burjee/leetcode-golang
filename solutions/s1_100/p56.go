@@ -5,7 +5,7 @@ import (
 	"slices"
 )
 
-func merge(intervals [][]int) [][]int {
+func merge_56(intervals [][]int) [][]int {
 	slices.SortFunc(intervals, func(a, b []int) int { return a[0] - b[0] })
 
 	ans := [][]int{intervals[0]}
@@ -32,6 +32,6 @@ func Run_56() {
 	}
 
 	for _, arg := range input {
-		fmt.Println(merge(arg.intervals))
+		fmt.Println(merge_56(arg.intervals))
 	}
 }

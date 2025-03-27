@@ -2,7 +2,7 @@ package s1_100
 
 import "fmt"
 
-func removeDuplicatesII(nums []int) int {
+func removeDuplicates_80(nums []int) int {
 	if len(nums) < 3 {
 		return len(nums)
 	}
@@ -32,7 +32,7 @@ func Run_80() {
 	}
 
 	for _, arg := range input {
-		k := removeDuplicatesII(arg.nums)
+		k := removeDuplicates_80(arg.nums)
 		fmt.Printf("k: %v, nums: ", k)
 		for i := 0; i < k; i += 1 {
 			fmt.Printf("%v ", arg.nums[i])

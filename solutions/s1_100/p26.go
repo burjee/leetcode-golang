@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func removeDuplicates(nums []int) int {
+func removeDuplicates_26(nums []int) int {
 	l := 1
 	r := 1
 	for r < len(nums) {
@@ -28,7 +28,7 @@ func Run_26() {
 	}
 
 	for _, arg := range input {
-		fmt.Print(removeDuplicates(arg.nums))
+		fmt.Print(removeDuplicates_26(arg.nums))
 		fmt.Printf(" %v\n", arg.nums)
 	}
 }

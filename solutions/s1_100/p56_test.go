@@ -18,7 +18,7 @@ func Test_56(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		ans := merge(c.input.intervals)
+		ans := merge_56(c.input.intervals)
 		assert.Equal(t, c.ans, ans)
 	}
 }

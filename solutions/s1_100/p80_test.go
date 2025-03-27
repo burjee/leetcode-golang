@@ -20,7 +20,7 @@ func Test_80(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		k := removeDuplicatesII(c.input.nums)
+		k := removeDuplicates_80(c.input.nums)
 		assert.Equal(t, len(c.ans), k)
 		for i := 0; i < k; i += 1 {
 			assert.Equal(t, c.ans[i], c.input.nums[i])

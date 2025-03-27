@@ -18,7 +18,7 @@ func Test_26(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		ans := removeDuplicates(c.input.nums)
+		ans := removeDuplicates_26(c.input.nums)
 		assert.Equal(t, len(c.ans), ans)
 		for i := range c.ans {
 			assert.Equal(t, c.ans[i], c.input.nums[i])
